@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Munro Bagger</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">Munro Bagger</string>
     <string name="action_settings">Settings</string>
     <string name="i_hope_you_are_enjoying_the_lecture">I Hope you\'re enjoying the lecture so far…</string>
     <string name="another_string">Another string</string>
